@@ -1,0 +1,8 @@
+﻿# Une carte 4x4 avec montagnes, trésors et 2 aventuriers
+C - 4 - 4
+M - 1 - 1
+M - 2 - 2
+T - 0 - 3 - 2
+T - 1 - 3 - 3
+A - Indiana - 1 - 0 - S - AADADAGGA
+A - Lara - 2 - 1 - E - AADAGGADA
